@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Anne's House of Dreams",
-  "type": "text"
+  "type": "text",
+  "book_id": 568
 }
